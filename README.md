@@ -68,7 +68,7 @@
 
 ## 其它
 
-- Nginx入门
+- [Nginx入门](https://github.com/qq1371189713/Builder_Walle/blob/master/other/nginx.md)
 
 ## 面试汇总
 
