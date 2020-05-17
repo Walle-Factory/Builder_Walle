@@ -69,11 +69,9 @@
 
    ​			（3） 使用41bit作为毫秒数，10bit作为机器的ID（5个bit是数据中心，5个bit的机器ID），12bit作为    						毫秒内的流水号，最后还有一个符号位，永远是0。 
 
-     		  （4） <img src="https://img-blog.csdnimg.cn/20191009093154467.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2ZseTkxMDkwNQ==,size_16,color_FFFFFF,t_70" width="50%">
+     		（4） 整体上按照时间自增排序，并且整个分布式系统内不会产生ID碰撞(由数据中心ID和机器ID作区				分)，并且效率较高，经测试，SnowFlake每秒能够产生26万ID左右。 
 
-   ​			（5） 整体上按照时间自增排序，并且整个分布式系统内不会产生ID碰撞(由数据中心ID和机器ID作区				分)，并且效率较高，经测试，SnowFlake每秒能够产生26万ID左右。 
-
-   ​            （6）缺点：强依赖机器时钟，如果机器上时钟回拨，会导致发号重复或者服务会处于不可用状态。
+   ​            （5）缺点：强依赖机器时钟，如果机器上时钟回拨，会导致发号重复或者服务会处于不可用状态。
 
    ​					
 
