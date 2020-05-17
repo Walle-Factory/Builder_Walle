@@ -8,9 +8,9 @@
 
  Apache Shiro 是Java的一个安全框架，因为对比Spring Sercurity 相对简单，所以使用的人也是越来越多。shiro可以帮助我们完成：认证、授权、加密、会话管理、与web集成、缓存等一条龙服务。并且它的API也是很简单的。话不多说先上官图： 
 
-```
-<img src="https://github.com/qq1371189713/Builder_Walle/blob/master/images/shiro1.png" width="100%">
-```
+
+<img src="https://github.com/qq1371189713/Builder_Walle/blob/master/images/shiro1.png" width="70%">
+
 
 1.Authentication:做身份认证/登录，验证用户是否有登录身份。
 
