@@ -149,3 +149,7 @@
    例子：
 
    - 如有索引`(a, b, c, d)`，查询条件`c > 3 and b = 2 and a = 1 and d < 4`与`a = 1 and c > 3 and b = 2 and d < 4`等顺序都是可以的，MySQL会自动优化为`a = 1 and b = 2 and c > 3 and d < 4`，依次命中a、b、c。
+   
+   
+## 技术参考   
+[JavaGuide](https://snailclimb.gitee.io/javaguide/#/docs/database/MySQL)
