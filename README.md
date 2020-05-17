@@ -1,3 +1,5 @@
+博客内部主要涵盖Java领域、数据结构、数据库、常用框架等基础知识，
+[写作的目的](https://github.com/qq1371189713/Builder_Walle/blob/master/record_life/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%9B%E5%BB%BA%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2.md)是为了巩固基础并分享给大家。大家在阅读当中有什么好的建议随时可以提出来，我将感之不尽！
 ## Java
 
 - Java基础
