@@ -12,22 +12,6 @@
   - [Redis基础](https://github.com/qq1371189713/Builder_Walle/blob/master/database/redis%E5%9F%BA%E7%A1%80.md)
   - [Redis设计与实现](https://github.com/qq1371189713/Builder_Walle/blob/master/database/redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
 
-## 消息队列
-
-- RabbitMQ
-- Kafka
-- RocketMQ
-
-## 常用框架
-
-- Spring
-- SpringMVC
-- SpringBoot
-- MyBatis
-
-## 登录鉴权
-
-- [Shiro入门](https://github.com/qq1371189713/Builder_Walle/tree/master/authentication/Shiro基础概念.md)
 
 ## 数据结构与算法
 
@@ -44,6 +28,27 @@
 - 排序算法
 - 字符串算法
 - 布隆过滤器
+
+
+## 常用框架
+
+- Spring
+- SpringMVC
+- SpringBoot
+- MyBatis
+
+
+## 消息队列
+
+- RabbitMQ
+- Kafka
+- RocketMQ
+
+
+## 登录鉴权
+
+- [Shiro入门](https://github.com/qq1371189713/Builder_Walle/tree/master/authentication/Shiro基础概念.md)
+
 
 ## 分布式
 
