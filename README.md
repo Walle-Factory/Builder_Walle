@@ -25,6 +25,10 @@
 - SpringBoot
 - MyBatis
 
+## 登录鉴权
+
+- [Shiro入门](https://github.com/qq1371189713/Builder_Walle/tree/master/authentication)
+
 ## 数据结构与算法
 
 - 数组、链表
