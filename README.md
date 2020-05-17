@@ -72,8 +72,8 @@
 
 ## 面试汇总
 
-- 
-
+- [自我介绍](https://github.com/qq1371189713/Builder_Walle/blob/master/interviewing_skills/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D.md)
+- [项目介绍](https://github.com/qq1371189713/Builder_Walle/blob/master/interviewing_skills/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.md)
 
 
 ## 记录生活
