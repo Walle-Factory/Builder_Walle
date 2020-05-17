@@ -27,7 +27,7 @@
 
 ## 登录鉴权
 
-- [Shiro入门](https://github.com/qq1371189713/Builder_Walle/tree/master/authentication)
+- [Shiro入门](https://github.com/qq1371189713/Builder_Walle/tree/master/authentication/Shiro基础概念.md)
 
 ## 数据结构与算法
 
