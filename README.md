@@ -7,7 +7,8 @@
 
 ## 数据库
 
-- [MySQL](https://github.com/qq1371189713/Builder_Walle/blob/master/database/mysql.md)
+- MySQL
+  - [MySQL基础](https://github.com/qq1371189713/Builder_Walle/blob/master/database/mysql.md)
 - Redis
   - [Redis基础](https://github.com/qq1371189713/Builder_Walle/blob/master/database/redis%E5%9F%BA%E7%A1%80.md)
   - [Redis设计与实现](https://github.com/qq1371189713/Builder_Walle/blob/master/database/redis%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
