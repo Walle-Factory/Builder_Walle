@@ -32,9 +32,9 @@
 
   - upsteam myserver {
 
-    ​	server 197.168.12.127:8080 weight=5
+    ​	server 127.0.0.1:8080 weight=5
 
-    ​    server 197.168.12.127:8080 weight=10
+    ​    server 127.0.0.1:8080 weight=10
 
     ​     fair
 
