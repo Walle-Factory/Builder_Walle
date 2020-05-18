@@ -3,7 +3,7 @@
 （博主尽量做到最少每周出一篇**原创**文章的频率，并不停的更新迭代，直到构建出完整的知识树。没有跳转链接的目录是因为还没更新到博客中）
 ## Java
 
-- Java基础
+- [Java基础](https://github.com/qq1371189713/Builder_Walle/blob/master/Java/Java%E5%9F%BA%E7%A1%80.md)
 - Java集合
 - 多线程
 - JVM
