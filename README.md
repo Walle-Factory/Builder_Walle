@@ -4,7 +4,7 @@
 ## Java
 
 - Java基础
-- Java容器
+- Java集合
 - 多线程
 - JVM
 
