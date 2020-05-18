@@ -50,4 +50,4 @@
 
 [面试整理]( https://www.cnblogs.com/Zz-maker/p/11193930.html )
 
-[JavaGuide]( [https://snailclimb.gitee.io/javaguide/#/docs/java/Java%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86?id=_26-%e4%b8%8e-equals%e9%87%8d%e8%a6%81](https://snailclimb.gitee.io/javaguide/#/docs/java/Java基础知识?id=_26-与-equals重要) )
+[JavaGuide](https://snailclimb.gitee.io/javaguide/#/docs/java/Java基础知识) 
