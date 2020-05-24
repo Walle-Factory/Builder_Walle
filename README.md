@@ -9,9 +9,9 @@
 - JVM
 
 
-## 数据结构
+## 数据结构 
 
-- 线性表
+- [线性表](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
 - 栈和队列
 - 多维数组和广义表
 - 数和二叉树
