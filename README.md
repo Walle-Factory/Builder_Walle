@@ -14,7 +14,7 @@
 - [线性表](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
 - [栈和队列](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E6%A0%88%E4%B8%8E%E9%98%9F%E5%88%97.md)
 - [多维数组和广义表](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E5%A4%9A%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%8E%E5%B9%BF%E4%B9%89%E8%A1%A8.md)
-- [数和二叉树](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91.md)
+- [树与二叉树](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [图](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E5%9B%BE.md)
 - [排序](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E6%8E%92%E5%BA%8F.md)
 - 查找
