@@ -17,7 +17,7 @@
 - [树与二叉树](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91.md)
 - [图](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E5%9B%BE.md)
 - [排序](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E6%8E%92%E5%BA%8F.md)
-- 查找
+- [查找](https://github.com/Walle-Factory/Builder_Walle/blob/master/data_structure/%E6%9F%A5%E6%89%BE.md)
 
 ## 数据库
 
