@@ -6,6 +6,7 @@
 - [Java基础](https://github.com/qq1371189713/Builder_Walle/blob/master/Java/Java%E5%9F%BA%E7%A1%80.md)
 - Java集合
     - [ArrayList源码解析](https://github.com/Walle-Factory/Builder_Walle/blob/master/Java/ArrayList.md)
+    - [LinkedList源码解析](https://github.com/Walle-Factory/Builder_Walle/blob/master/Java/LinkedList.md)
 - 多线程
 - JVM
 
