@@ -7,6 +7,7 @@
 - Java集合
     - [ArrayList源码解析](https://github.com/Walle-Factory/Builder_Walle/blob/master/Java/ArrayList.md)
     - [LinkedList源码解析](https://github.com/Walle-Factory/Builder_Walle/blob/master/Java/LinkedList.md)
+    - [HashMap源码解析](https://github.com/Walle-Factory/Builder_Walle/blob/master/Java/HashMap.md)
 - 多线程
 - JVM
 
